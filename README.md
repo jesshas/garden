@@ -1,12 +1,12 @@
-# MeanApp
+# Garden
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-Shout out to @slaterjoseph for all of your mentorship and letting me borrow your arduino.
+Shout out to @slater407 for all of your mentorship and letting me borrow your arduino.
 
 # Frontend
 
-## Angular 6 dashboard-style frontend. 
+## Angular 6 dashboard-style frontend
 `$ npm install` 
 
 `$ ng serve` --> `http://localhost:4200/`
