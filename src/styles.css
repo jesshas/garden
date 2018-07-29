@@ -1,5 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
-/*@import "~bootstrap/dist/css/bootstrap.min.css"
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.css";
 /* Master Styles */
 h1 {
     color: #369;
@@ -14,7 +15,7 @@ h1 {
   body {
     margin: 2em;
   }
-  body, input[text], button {
+  body, input[text] {
     color: #888;
     font-family: Cambria, Georgia;
   }

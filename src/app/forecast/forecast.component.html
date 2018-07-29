@@ -1,0 +1,11 @@
+
+<div class="card text-center" style="width: 25rem;">
+  <div class="card-body">
+    <h5 class="card-title">Current Weather in {{weather.city}}</h5>
+    <p class="card-text">{{ weather?.temperature }}</p>
+    <a class="btn btn-primary" (click)="loadWeather()">Refresh</a>
+  </div>
+  <div class="card-footer">
+      <small class="text-muted">Last updated 1 mins ago</small>
+    </div>
+</div>
