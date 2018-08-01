@@ -28,9 +28,9 @@
     "core-js": "^2.5.4",
     "express": "^4.16.3",
     "font-awesome": "^4.7.0",
+    "mongodb": "^3.1.1",
     "ng-chartist": "^2.0.0-beta.1",
     "ng2-charts": "^1.6.0",
-    "nodemon": "^1.18.1",
     "rxjs": "^6.0.0",
     "zone.js": "^0.8.26"
   },
@@ -51,6 +51,7 @@
     "karma-coverage-istanbul-reporter": "~2.0.0",
     "karma-jasmine": "~1.1.1",
     "karma-jasmine-html-reporter": "^0.2.2",
+    "nodemon": "^1.18.3",
     "protractor": "~5.3.0",
     "ts-node": "~5.0.1",
     "tslint": "~5.9.1",
