@@ -5,7 +5,7 @@ import { Weather } from './weather';
 
 
 @Component({
-  selector: 'forecast',
+  selector: 'app-forecast',
   templateUrl: './forecast.component.html',
   styleUrls: ['./forecast.component.css'],
   providers: [WeatherService]

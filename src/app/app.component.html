@@ -17,6 +17,7 @@ body {
     background-color: rgb(108, 219, 150);
     overflow-x: hidden;
     padding-top: 20px;
+    padding-right: 20px;
 }
 
 .sidenav a {
@@ -48,9 +49,10 @@ body {
     <a routerlink="/forecast">Forecast</a>
 </div>
 
+<div class="main">
 <router-outlet></router-outlet>
 <app-messages></app-messages>
-
+</div>
 
 
 
